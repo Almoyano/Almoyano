@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ¡Hola! 👋
 
-Mi nombre es Almudena y y soy Desarrolladora Frontend Junior. 💻
+Mi nombre es Almudena y soy Desarrolladora Frontend Junior. 💻
 
 Curiosidad, empatía, gusto por rabajar en equipo, comunicaciónfluida y facilidad de adaptación son algunas de las *soft skills* que me definen al haberme desarrollado profesionalmente en el sector social. 🌍
 
