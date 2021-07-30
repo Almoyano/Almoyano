@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Mi nombre es Almudena y soy Desarrolladora Frontend Junior. 💻
 
-Curiosidad, empatía, gusto por rabajar en equipo, comunicaciónfluida y facilidad de adaptación son algunas de las *soft skills* que me definen al haberme desarrollado profesionalmente en el sector social. 🌍
+Curiosidad, empatía, gusto por trabajar en equipo, comunicación fluida y facilidad de adaptación son algunas de las *soft skills* que me definen al haberme desarrollado profesionalmente en el sector social. 🌍
 
 Me ilusiona poder unificar el mundo tecnológico con el social para crear sinergias entre ambos y así generar impacto en la sociedad. 🙌
 
